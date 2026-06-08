@@ -247,6 +247,33 @@ orion-sentinel/
 
 ---
 
+## Community
+
+Join the community to ask questions, share ideas, and get help.
+
+| Platform | Link | Purpose |
+|----------|------|---------|
+| **GitHub Issues** | [github.com/soufianeoi/orion-sentinel/issues](https://github.com/soufianeoi/orion-sentinel/issues) | Bug reports & feature requests |
+| **GitHub Discussions** | [github.com/soufianeoi/orion-sentinel/discussions](https://github.com/soufianeoi/orion-sentinel/discussions) | Q&A, ideas, show & tell |
+| **Discord** | *Coming soon — let us know if you'd like one* | Real-time chat |
+| **Reddit** | *Coming soon* | Community forum |
+
+### Contributing
+
+Pull requests are welcome. Open an issue first for major changes.
+
+1. Fork the repo
+2. Create a branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes
+4. Push and open a PR
+
+### Stay Updated
+
+- **Star** the repo on GitHub
+- **Watch** releases for new versions
+
+---
+
 ## License
 
 MIT License. See `LICENSE` for details.
@@ -254,6 +281,9 @@ MIT License. See `LICENSE` for details.
 ---
 
 <div align="center">
-  <p>Built with precision, reactivity, reliability, and accessibility.</p>
+  <p>
+    <strong>⭐ Star on GitHub</strong> if you find this useful<br>
+    <sub>Built with precision, reactivity, reliability, and accessibility</sub>
+  </p>
   <p><strong>🛰️ ORION SENTINEL — See what others miss.</strong></p>
 </div>
