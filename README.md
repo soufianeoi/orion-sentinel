@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/dashboard-live-00c8ff?style=flat-square" alt="Dashboard">
   <img src="https://img.shields.io/badge/data%20sources-7%20integrated-00c8ff?style=flat-square" alt="Data Sources">
   <img src="https://img.shields.io/badge/ingestion-real--time-00c8ff?style=flat-square" alt="Real-time">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square" alt="Contributions Welcome">
 </div>
 
 <br>
@@ -245,6 +246,8 @@ orion-sentinel/
 - Environment-based API key management
 - All secrets excluded from version control
 
+See [`SECURITY.md`](SECURITY.md) for vulnerability reporting.
+
 ---
 
 ## Community
@@ -258,14 +261,14 @@ Join the community to ask questions, share ideas, and get help.
 | **Discord** | *Coming soon — let us know if you'd like one* | Real-time chat |
 | **Reddit** | *Coming soon* | Community forum |
 
-### Contributing
+### Project Documents
 
-Pull requests are welcome. Open an issue first for major changes.
-
-1. Fork the repo
-2. Create a branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes
-4. Push and open a PR
+| Document | Description |
+|----------|-------------|
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution guidelines |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Community code of conduct |
+| [`SECURITY.md`](SECURITY.md) | Security policy and vulnerability reporting |
+| [`LICENSE`](LICENSE) | MIT license terms |
 
 ### Stay Updated
 
