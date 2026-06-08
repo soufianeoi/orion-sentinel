@@ -26,6 +26,8 @@ Orion Sentinel is a full-stack OSINT platform that ingests, enriches, and visual
 
 **Live data sources currently operational:** NewsAPI, AlienVault OTX, CISA, AISHub MarineTraffic.
 
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 ---
 
 ## Quick Start
