@@ -62,14 +62,16 @@ cd orion-sentinel
 # Open http://localhost:3000
 ```
 
-### Docker (Production)
+> **No Docker. No PostgreSQL. No Redis required.** The platform runs natively with zero external dependencies. Persistent storage is completely optional — everything works in-memory with mock/real data out of the box.
+
+### Docker (Optional — Production)
 
 ```bash
 ./setup.sh
 docker-compose up -d
 ```
 
-> **No PostgreSQL or Redis required** — the platform runs in mock/memory mode with zero external dependencies. Persistent storage is optional.
+Docker is only needed if you want containerized deployment with PostgreSQL persistence.
 
 ---
 
